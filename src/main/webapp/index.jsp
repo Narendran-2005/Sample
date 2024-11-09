@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevOps world.com</title>
+    <title>D world.com</title>
 
 
     <!-- Custom styles for this template -->
